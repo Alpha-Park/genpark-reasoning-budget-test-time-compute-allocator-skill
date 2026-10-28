@@ -1,0 +1,15 @@
+{
+  "name": "genpark-reasoning-budget-test-time-compute-allocator-skill",
+  "version": "1.0.0",
+  "description": "GenPark Reasoning Budget Test-Time Compute Allocator - Dynamically schedules thinking token budgets, reflection passes, and temperature annealing based on problem entropy.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "deepseek-r1",
+    "test-time-compute",
+    "token-budgeting",
+    "reasoning-scheduler",
+    "mcp"
+  ]
+}
