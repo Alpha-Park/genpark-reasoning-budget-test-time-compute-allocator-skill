@@ -82,7 +82,7 @@ Add to your `claude_desktop_config.json` or agent runner config:
   "mcpServers": {
     "genpark-reasoning-budget-test-time-compute-allocator-skill": {
       "command": "python",
-      "args": ["path/to/genpark-reasoning-budget-test-time-compute-allocator-skill/mcp_server.py"]
+      "args": ["/absolute/path/to/genpark-reasoning-budget-test-time-compute-allocator-skill/mcp_server.py"]
     }
   }
 }
